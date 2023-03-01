@@ -1,0 +1,9 @@
+    1  git clone https://github.com/kamczorek/wsb_pai_diinz_2_K15_inf.git
+    2  cd wsb_pai_diinz_2_K15_inf/
+    3  ls
+    4  alias c=clear
+    5  c
+    6  git *
+    7  git --help
+    8  history
+    9  history > fileshistory
